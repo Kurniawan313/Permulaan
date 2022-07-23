@@ -1,0 +1,24 @@
+body {
+  height:500px;
+  width:500px;
+  background-color:yellow;
+}
+
+h1 {
+  font-size:40px;
+}
+
+h3 {
+  font-size:28px;
+  color:blue;
+}
+
+span {
+  color:orange;
+}
+
+.main {
+  height:400px;
+  width:400px;
+  background-color:aquatic;
+}
